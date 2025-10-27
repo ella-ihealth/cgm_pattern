@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "data": {
+    "patientId": "6663751ba288866831d13caf",
+    "startDate": "2025-09-09",
+    "endDate": "2025-10-09",
+    "templateCoverageDays": 7,
+    "lookBackDays": 365,
+    "excursions": []
+  },
+  "msg": null,
+  "error": null
+}

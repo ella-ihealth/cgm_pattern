@@ -1,0 +1,264 @@
+{
+  "code": 200,
+  "data": {
+    "patientId": "6663751ba288866831d13caf",
+    "windowType": "ROLLING_14_DAYS",
+    "wearThresholdPercent": 70.0,
+    "windows": [
+      {
+        "startDate": "2025-09-26",
+        "endDate": "2025-10-09",
+        "daysWorn": 14,
+        "percentTimeActive": 95.83333333333334,
+        "averageGlucose": 143.0,
+        "gmi": 6.7282014285714276,
+        "gv": 26.389861319565462,
+        "windowValid": true,
+        "timeRangePercentage": [
+          {
+            "metric": "TIR",
+            "upperLimit": 180.0,
+            "lowerLimit": 70.0,
+            "percentage": 83.04378040305768
+          },
+          {
+            "metric": "TAR_LEVEL_1",
+            "upperLimit": 250.0,
+            "lowerLimit": 181.0,
+            "percentage": 15.56636553161918
+          },
+          {
+            "metric": "TAR_LEVEL_2",
+            "upperLimit": null,
+            "lowerLimit": 251.0,
+            "percentage": 0.6949270326615705
+          },
+          {
+            "metric": "TBR_LEVEL_1",
+            "upperLimit": 69.0,
+            "lowerLimit": 54.0,
+            "percentage": 0.6949270326615705
+          },
+          {
+            "metric": "TBR_LEVEL_2",
+            "upperLimit": 53.0,
+            "lowerLimit": null,
+            "percentage": 0.0
+          }
+        ]
+      },
+      {
+        "startDate": "2025-09-12",
+        "endDate": "2025-09-25",
+        "daysWorn": 14,
+        "percentTimeActive": 98.58630952380952,
+        "averageGlucose": 138.0,
+        "gmi": 6.609912935849055,
+        "gv": 28.89311515073057,
+        "windowValid": true,
+        "timeRangePercentage": [
+          {
+            "metric": "TIR",
+            "upperLimit": 180.0,
+            "lowerLimit": 70.0,
+            "percentage": 84.35326842837274
+          },
+          {
+            "metric": "TAR_LEVEL_1",
+            "upperLimit": 250.0,
+            "lowerLimit": 181.0,
+            "percentage": 14.047287899860919
+          },
+          {
+            "metric": "TAR_LEVEL_2",
+            "upperLimit": null,
+            "lowerLimit": 251.0,
+            "percentage": 0.6258692628650904
+          },
+          {
+            "metric": "TBR_LEVEL_1",
+            "upperLimit": 69.0,
+            "lowerLimit": 54.0,
+            "percentage": 0.9735744089012517
+          },
+          {
+            "metric": "TBR_LEVEL_2",
+            "upperLimit": 53.0,
+            "lowerLimit": null,
+            "percentage": 0.0
+          }
+        ]
+      },
+      {
+        "startDate": "2025-08-29",
+        "endDate": "2025-09-11",
+        "daysWorn": 14,
+        "percentTimeActive": 99.70238095238095,
+        "averageGlucose": 138.0,
+        "gmi": 6.620777910447762,
+        "gv": 26.291067408390884,
+        "windowValid": true,
+        "timeRangePercentage": [
+          {
+            "metric": "TIR",
+            "upperLimit": 180.0,
+            "lowerLimit": 70.0,
+            "percentage": 86.23087621696801
+          },
+          {
+            "metric": "TAR_LEVEL_1",
+            "upperLimit": 250.0,
+            "lowerLimit": 181.0,
+            "percentage": 12.86509040333797
+          },
+          {
+            "metric": "TAR_LEVEL_2",
+            "upperLimit": null,
+            "lowerLimit": 251.0,
+            "percentage": 0.48678720445062584
+          },
+          {
+            "metric": "TBR_LEVEL_1",
+            "upperLimit": 69.0,
+            "lowerLimit": 54.0,
+            "percentage": 0.4172461752433936
+          },
+          {
+            "metric": "TBR_LEVEL_2",
+            "upperLimit": 53.0,
+            "lowerLimit": null,
+            "percentage": 0.0
+          }
+        ]
+      },
+      {
+        "startDate": "2025-08-15",
+        "endDate": "2025-08-28",
+        "daysWorn": 14,
+        "percentTimeActive": 99.70238095238095,
+        "averageGlucose": 158.0,
+        "gmi": 7.097714149253733,
+        "gv": 31.369194105567296,
+        "windowValid": true,
+        "timeRangePercentage": [
+          {
+            "metric": "TIR",
+            "upperLimit": 180.0,
+            "lowerLimit": 70.0,
+            "percentage": 67.19944405837387
+          },
+          {
+            "metric": "TAR_LEVEL_1",
+            "upperLimit": 250.0,
+            "lowerLimit": 181.0,
+            "percentage": 28.422515635858236
+          },
+          {
+            "metric": "TAR_LEVEL_2",
+            "upperLimit": null,
+            "lowerLimit": 251.0,
+            "percentage": 4.030576789437109
+          },
+          {
+            "metric": "TBR_LEVEL_1",
+            "upperLimit": 69.0,
+            "lowerLimit": 54.0,
+            "percentage": 0.34746351633078526
+          },
+          {
+            "metric": "TBR_LEVEL_2",
+            "upperLimit": 53.0,
+            "lowerLimit": null,
+            "percentage": 0.0
+          }
+        ]
+      },
+      {
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-14",
+        "daysWorn": 14,
+        "percentTimeActive": 99.33035714285714,
+        "averageGlucose": 152.0,
+        "gmi": 6.946144599250937,
+        "gv": 30.72139308450701,
+        "windowValid": true,
+        "timeRangePercentage": [
+          {
+            "metric": "TIR",
+            "upperLimit": 180.0,
+            "lowerLimit": 70.0,
+            "percentage": 71.69680111265647
+          },
+          {
+            "metric": "TAR_LEVEL_1",
+            "upperLimit": 250.0,
+            "lowerLimit": 181.0,
+            "percentage": 25.034770514603615
+          },
+          {
+            "metric": "TAR_LEVEL_2",
+            "upperLimit": null,
+            "lowerLimit": 251.0,
+            "percentage": 2.5730180806675937
+          },
+          {
+            "metric": "TBR_LEVEL_1",
+            "upperLimit": 69.0,
+            "lowerLimit": 54.0,
+            "percentage": 0.6954102920723227
+          },
+          {
+            "metric": "TBR_LEVEL_2",
+            "upperLimit": 53.0,
+            "lowerLimit": null,
+            "percentage": 0.0
+          }
+        ]
+      },
+      {
+        "startDate": "2025-07-18",
+        "endDate": "2025-07-31",
+        "daysWorn": 14,
+        "percentTimeActive": 99.62797619047619,
+        "averageGlucose": 150.0,
+        "gmi": 6.89994718446602,
+        "gv": 27.397682856936395,
+        "windowValid": true,
+        "timeRangePercentage": [
+          {
+            "metric": "TIR",
+            "upperLimit": 180.0,
+            "lowerLimit": 70.0,
+            "percentage": 76.77329624478443
+          },
+          {
+            "metric": "TAR_LEVEL_1",
+            "upperLimit": 250.0,
+            "lowerLimit": 181.0,
+            "percentage": 21.140472878998608
+          },
+          {
+            "metric": "TAR_LEVEL_2",
+            "upperLimit": null,
+            "lowerLimit": 251.0,
+            "percentage": 1.4603616133518775
+          },
+          {
+            "metric": "TBR_LEVEL_1",
+            "upperLimit": 69.0,
+            "lowerLimit": 54.0,
+            "percentage": 0.6258692628650904
+          },
+          {
+            "metric": "TBR_LEVEL_2",
+            "upperLimit": 53.0,
+            "lowerLimit": null,
+            "percentage": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "msg": null,
+  "error": null
+}
